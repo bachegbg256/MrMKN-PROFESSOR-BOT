@@ -1,4 +1,4 @@
-import r
+import re
 from os import environ
 import asyncio
 import json
